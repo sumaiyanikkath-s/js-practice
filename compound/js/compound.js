@@ -1,0 +1,12 @@
+var p=parseInt(prompt("enter the principal"));
+var r=parseInt(prompt("enter the rate"));
+var t=parseInt(prompt("enter the time"));
+var ci;
+x=(1+(r/100));
+alert(x);
+y=x*t;
+alert(y); 
+amt=p*y;
+alert(amt);
+ci=amt-p;
+alert(ci);

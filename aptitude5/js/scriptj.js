@@ -1,0 +1,17 @@
+var a=parseInt(prompt("enter the a value"));
+var b=parseInt(prompt("enter the b value"));
+var c;
+c=a+b;
+alert(c);
+c=a-b;
+alert(c);
+c=a*b;
+alert(c);
+c=b+a;
+alert(c);
+c=b-a;
+alert(c);
+c=a/b;
+alert(c);
+c=b/a;
+alert(c);

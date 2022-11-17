@@ -1,0 +1,10 @@
+var d1=parseInt(prompt("enter the distance1"));
+var d2=parseInt(prompt("enter the distance2"));
+var t1=parseInt(prompt("enter the time1"));
+var speed;
+speed=d1/t1;
+alert(speed);
+dis=d1+d2;
+alert(dis);
+time=dis/speed;
+alert(time);
