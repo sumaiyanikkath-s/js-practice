@@ -1,12 +1,12 @@
-/*function sum(s)
+function sum(s)
 {
 	return s;
 }
 a=parseInt(prompt("enter the value"));
 b=sum(a);
-alert(b);*/
+alert(b);
 
-x=sum(10);
-alert(x);
+//x=sum(10);
+//alert(x);
 
 

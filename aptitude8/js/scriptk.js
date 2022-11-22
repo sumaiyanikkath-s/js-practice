@@ -11,3 +11,4 @@ s2=ms-ss;
 alert(s2);
 time=((d1/s1)+(d2/s2));
 alert(time);
+  
